@@ -1,0 +1,19 @@
+python codes
+
+https://www.powercms.in/blog/how-get-json-data-remote-url-python-script
+
+Attaching the kerberos layer
+
+https://pypi.org/project/requests-kerberos/
+
+https://pypi.org/project/krbcontext/
+
+https://github.com/pythongssapi/python-gssapi/issues/106
+
+
+-------------------------------------------------------------
+
+https://norgenhdpdev01.ccaintranet.com:8443/claimServices/v1/claims/Unrestricted_dev/0200000009380012900
+
+
+https://github.com/tkdchen/python-krbcontext/blob/master/docs/source/usage.rst
