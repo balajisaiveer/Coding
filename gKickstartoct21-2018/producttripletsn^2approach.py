@@ -1,11 +1,11 @@
-testcases = int(raw_input())
+testcases = int(input())
 ans1=[]
 ans=[]
 for testcasenumber in range(0,testcases):
 
-	n = int(raw_input())
+	n = int(input())
 	#n in n numbers that are goin to entered
-	arr = [int(x) for x in raw_input().split()]
+	arr = [int(x) for x in input().split()]
 	#print arr
 	#################################################################################################3
 	###################BRUTE FROCE N^3
